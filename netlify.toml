@@ -1,0 +1,4 @@
+[[redirects]]
+from='/*'
+to='/mlapp/src/app.jsx'
+status=200
